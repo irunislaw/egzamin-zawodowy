@@ -1,0 +1,50 @@
+*{
+    font-family: 'Helvetica';
+margin: 0;
+padding: 0;
+}
+.left{
+    float: left;
+    background-color: navy;
+    color: white;
+    width: 25%;
+    height: 700px;
+
+}
+.first{
+    float: left;
+    background-color: royalblue;
+    height: 100px;
+    width: 75%;
+    text-align: center;
+}
+.second{
+    background-color: steelblue;
+    height: 300px;
+    width: 75%;
+    float: left;
+}
+.third{
+    background-color: royalblue;
+    float: left;
+    height: 300px;
+    width: 75%;
+    text-align: center;
+
+}
+footer{
+    clear: both;
+    background-color: steelblue;
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    letter-spacing: 5px;
+}
+form{
+    padding: 30px;
+    line-height: 3;
+}
+form:hover{
+    background-color: deepskyblue;
+}
